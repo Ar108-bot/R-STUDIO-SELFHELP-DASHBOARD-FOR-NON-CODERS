@@ -53,3 +53,25 @@ This project is released under the MIT License, meaning you can freely use, modi
 2. Install the required packages in R (only once):
    ```R
    install.packages(c("shiny", "httr", "jsonlite"))
+
+
+Add a short step-by-step guide for readers:
+
+“Go to the GitHub link provided.”
+
+“Download the repository as a ZIP file.”
+
+“Open app.R in RStudio.”
+
+“Get your OpenAI API key from https://platform.openai.com/
+ → Profile → API keys.”
+
+“Paste the key in the app and run it.”
+
+✅ Where Users Find Their API Key
+
+The official place: https://platform.openai.com/account/api-keys
+
+They log in with their OpenAI account.
+
+Click Create new secret key, copy it, and paste into the app.
