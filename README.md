@@ -166,4 +166,37 @@ Final reassuring note (for non-coders)
 
 This app is a helper — not a magic wand. If you copy-paste your code and an error, treat the suggestion as a guided hint. If it doesn’t work the first time, breathe, read the small error message again, and try the fix (or open an Issue). You have full control — and you can always revoke your API key and create a new one if needed.
 
+12) How to Get Help / Report Issues
 
+If you face a problem running the app, here’s what you should do:
+
+Check the “Common problems & fixes” section (Point 7 above).
+Most errors (missing packages, invalid API key, etc.) can be solved by following those steps.
+
+If the problem continues, create a GitHub Issue:
+
+Go to this repository page in your web browser.
+
+At the top, click the Issues tab.
+
+Click the green New issue button.
+
+Give your issue a clear title, like “Error: shiny app won’t start”.
+
+In the description box, paste:
+
+The exact error message you see in RStudio.
+
+Your operating system (Windows/Mac/Linux).
+
+Your R version and RStudio version (find this in RStudio under Help → About RStudio).
+
+What you already tried from the troubleshooting list.
+
+⚠️ Do not paste your API key anywhere. It is private, like a password.
+
+Wait for help.
+
+The repo maintainer (or someone from the community) will reply on the GitHub Issue page.
+
+You can log back into GitHub anytime to check for responses.
