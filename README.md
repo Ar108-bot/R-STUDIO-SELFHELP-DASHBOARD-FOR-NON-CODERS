@@ -19,7 +19,34 @@ In short: the MIT License gives you freedom to use the app without legal worries
 
 This Shiny app is designed for beginners who use R but don’t know how to fix coding errors.  
 It connects to OpenAI’s GPT model to suggest corrected code.
+Download this repository (click the green Code button → Download ZIP).
 
+Extract the ZIP and open the file app.R in RStudio.
+
+Before running the app, you must add your own OpenAI API key (see below).
+
+Run the app:
+
+shiny::runApp("app.R")
+
+Getting Your OpenAI API Key
+
+Go to https://platform.openai.com/
+.
+
+Create a free account (or log in if you already have one).
+
+In your profile (top right) → View API keys.
+
+Click Create new secret key and copy it.
+
+Paste it into the app when prompted.
+
+⚠️ Important: Keep your key private. Do not share it with others.
+
+License
+
+This project is released under the MIT License, meaning you can freely use, modify, and share it, but it comes with no warranty.
 ## How to Use
 
 1. Install R and RStudio.
