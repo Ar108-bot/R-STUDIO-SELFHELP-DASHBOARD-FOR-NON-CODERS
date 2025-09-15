@@ -162,24 +162,6 @@ If you prefer your readers not to install anything, you can deploy the app to sh
 
 This project is released under the MIT License — you are free to use, copy, and modify the code. See LICENSE for details.
 
-12) Get help / report issues
-
-If readers have problems with the repo itself, ask them to open a GitHub Issue here:
-https://github.com/YourUserName/YourRepoName/issues (replace with your repo link).
-Be clear in the issue: include your RStudio version, OS, the exact error text, and what you tried. Do not paste your API key.
-
-Useful links
-
-OpenAI: Where do I find my API Key? 
-OpenAI Help Center
-
-OpenAI: Managing API keys & projects (create new secret key) 
-OpenAI Help Center
-+1
-
-OpenAI: Billing & quotas (if you need to add payment) 
-Zapier
-
 Final reassuring note (for non-coders)
 
 This app is a helper — not a magic wand. If you copy-paste your code and an error, treat the suggestion as a guided hint. If it doesn’t work the first time, breathe, read the small error message again, and try the fix (or open an Issue). You have full control — and you can always revoke your API key and create a new one if needed.
