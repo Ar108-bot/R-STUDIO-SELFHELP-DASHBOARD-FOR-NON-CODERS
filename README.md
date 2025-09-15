@@ -200,3 +200,5 @@ Wait for help.
 The repo maintainer (or someone from the community) will reply on the GitHub Issue page.
 
 You can log back into GitHub anytime to check for responses.
+
+“This is a self-help project. Issues may be answered by the community. Replies are not guaranteed.”
