@@ -15,3 +15,14 @@ For you, as a reader and user of this book, this means:
 ⚠️ The app is provided “as is” — meaning I am not responsible if it doesn’t work on your computer, causes errors, or fails in some way.
 
 In short: the MIT License gives you freedom to use the app without legal worries, while also protecting me from being held responsible if anything goes wrong.
+# R Error Helper App
+
+This Shiny app is designed for beginners who use R but don’t know how to fix coding errors.  
+It connects to OpenAI’s GPT model to suggest corrected code.
+
+## How to Use
+
+1. Install R and RStudio.
+2. Install the required packages in R (only once):
+   ```R
+   install.packages(c("shiny", "httr", "jsonlite"))
